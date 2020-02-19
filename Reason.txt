@@ -1,0 +1,5 @@
+
+
+ Use the Delay Code the LED has a little bit delay when it uses the delay time for 5 - 8 minutes,
+ we can see the defference of the the stopwatch and the LED. But RTC Code, the LED brings 
+ the same time with the stopwatch.
